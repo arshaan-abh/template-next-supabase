@@ -84,3 +84,11 @@ export default function RootLayout({
     </html>
   );
 }
+
+/* TODO list
+   Configure Prettier
+   Configure strict ESLint
+   Fix README.md
+   Remove boilerplate stuff
+   Remove unused dependencies
+*/
