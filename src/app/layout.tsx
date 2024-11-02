@@ -89,6 +89,8 @@ export default function RootLayout({
    Configure Prettier
    Configure strict ESLint
    Fix README.md
+   Pull request
+
    Remove boilerplate stuff
-   Remove unused dependencies
+   Remove unused dependencies afterwards
 */
