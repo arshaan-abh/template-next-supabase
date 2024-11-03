@@ -91,6 +91,8 @@ export default function RootLayout({
    Fix README.md
    Pull request
 
-   Remove boilerplate stuff
-   Remove unused dependencies afterwards
+   1. Populate the SUPABASE_PROJECT_REF environment variable.
+   2. Run init-types (only once) and update-types (whenever you want to update the Supabase types). You can use the generated Database type anywhere.
+   3. Remove boilerplate stuff.
+   4. Remove unused dependencies.
 */
