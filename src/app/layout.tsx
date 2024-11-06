@@ -86,8 +86,6 @@ export default function RootLayout({
 }
 
 /* TODO list
-   Configure Prettier
-   Configure strict ESLint
    Fix README.md
    Pull request
 

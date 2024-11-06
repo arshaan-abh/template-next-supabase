@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
       Icons({
         compiler: "jsx",
         jsx: "react",
-      })
+      }),
     );
 
     return config;
